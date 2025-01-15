@@ -1,0 +1,20 @@
+2023-02-24T08:04:29+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Post::post_excerpt() in /home/code88/public_html/cosmetic/wp-content/themes/beauty-cosmetics/home.php:42
+Stack trace:
+#0 /home/code88/public_html/cosmetic/wp-includes/template-loader.php(106): include()
+#1 /home/code88/public_html/cosmetic/wp-blog-header.php(19): require_once('/home/code88/pu...')
+#2 /home/code88/public_html/cosmetic/index.php(17): require('/home/code88/pu...')
+#3 {main}
+  thrown in /home/code88/public_html/cosmetic/wp-content/themes/beauty-cosmetics/home.php on line 42
+
+2023-02-24T08:04:56+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::post_excerpt() in /home/code88/public_html/cosmetic/wp-content/themes/beauty-cosmetics/home.php:42
+Stack trace:
+#0 /home/code88/public_html/cosmetic/wp-includes/template-loader.php(106): include()
+#1 /home/code88/public_html/cosmetic/wp-blog-header.php(19): require_once('/home/code88/pu...')
+#2 /home/code88/public_html/cosmetic/index.php(17): require('/home/code88/pu...')
+#3 {main}
+  thrown in /home/code88/public_html/cosmetic/wp-content/themes/beauty-cosmetics/home.php on line 42
+
+2023-02-24T08:05:34+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /home/code88/public_html/cosmetic/wp-content/themes/beauty-cosmetics/home.php on line 42
+
+2023-02-24T08:05:54+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /home/code88/public_html/cosmetic/wp-content/themes/beauty-cosmetics/home.php on line 42
+
